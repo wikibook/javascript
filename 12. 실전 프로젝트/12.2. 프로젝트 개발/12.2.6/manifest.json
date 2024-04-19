@@ -1,0 +1,10 @@
+{
+    "name": "newtab",
+    "description": "Made by Hyobin",
+    "version": "1.0",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "host_permissions": ["<all_urls>"]
+}
