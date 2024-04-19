@@ -1,0 +1,2 @@
+let userinfo;
+let istrueorfalse;

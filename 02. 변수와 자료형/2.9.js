@@ -1,0 +1,2 @@
+let userInfo;
+let isTrueOrFalse;
