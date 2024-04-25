@@ -33,12 +33,6 @@
 
 - 인프런 강의: https://inf.run/7AC37
 
-&nbsp;
-
-#### 도서 상세 이미지
-
-<img src="//wikibook.co.kr/images/images/javascript_Detail.jpg" class="book-preview-img">
-
 ---
  
  ## 구입처
